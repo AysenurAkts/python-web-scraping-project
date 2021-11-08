@@ -4,7 +4,7 @@ A Spyder project that scrapes markastok web pages using Python to create a datas
 
 All metrics are saved in the local excel file and google sheets.
 
-The project consists of two parts:
+The project consists of three parts:
 
   •Part 1: Scraped required metrics from product pages
   
